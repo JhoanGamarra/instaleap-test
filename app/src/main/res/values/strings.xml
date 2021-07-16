@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaleapTest</string>
+    <string name="title_activity_bottom_navigation">MainActivity</string>
+    <string name="cd_iv_icon_item_film">icon is put by film type</string>
+    <string name="title_all">All</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">Series</string>
+    <string name="text_movie_name">Movie Name</string>
+</resources>
